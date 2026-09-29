@@ -1,5 +1,7 @@
 # Ride-Booking-Analysis
 
+<img width="1492" height="826" alt="image" src="https://github.com/user-attachments/assets/965fc60c-91e5-436a-a008-0981fc674e01" />
+
 ## Tools Used
 Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
@@ -13,7 +15,6 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 - Notably, vehicle type, payment method, ride distance, and wait times showed no real relationship with ratings or completion — the real drivers of performance are location coverage and timing, not ride mechanics.
 
 ## Recommendations
-- Fix driver supply in specific locations : Old Gurgaon, Paharganj, and Vinobapuri have unusually high "no driver found" rates despite average demand; targeted driver incentives here could recover meaningful lost bookings.
-- Review the illness-related cancellation pattern : ~6,800 driver cancellations were attributed to customer illness, the single biggest customer-related cause of failed rides.
-- Grow weekend demand : weekend rides are worth significantly more per trip, so even small increases in weekend bookings would have an outsized revenue impact.
-- Investigate the "driver asked to cancel" reason : a notable share of customer cancellations may actually be driver-initiated in disguise.
+- Old Gurgaon, Paharganj, and Vinobapuri have unusually high "no driver found" rates despite average demand; targeted driver incentives here could recover meaningful lost bookings.
+- ~6,800 driver cancellations were attributed to customer illness, the single biggest customer-related cause of failed rides.
+ 
